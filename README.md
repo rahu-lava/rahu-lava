@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @rahu-lava
 
 ## 👀 I’m interested in
-- Android development
+- Mobile application development (Java ,Kotlin ,Flutter)
 - Web development
 - Machine learning
 
