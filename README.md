@@ -11,7 +11,7 @@
 - Planning to learn React Native
 
 ## 💞️ I’m looking to collaborate on
-- Android projects
+- Mobile development projects(Java ,Kotlin ,Flutter)
 - Machine learning projects
 
 ## 📫 How to reach me
