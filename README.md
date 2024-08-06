@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @rahu-lava
+# 👋 Hi, I’m Rahul
 
 ## 👀 I’m interested in
 - Mobile application development (Java ,Kotlin ,Flutter)
