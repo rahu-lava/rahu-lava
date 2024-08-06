@@ -1,28 +1,19 @@
-- 👋 Hi, I’m @rahu-lava
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I’m @rahu-lava
 
-<!---
-rahu-lava/rahu-lava is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
--create repo
-(Add a readme file)
-Create new file
-Write code
-Commit nw fl
-Comment (clk on create name)
-Add com
-Create branch
-Edit branch by click on filename.c
-Pencil se edit
-CMT changes
-Compare pull request
-Merge pull request... confirm merge
-Delete branch
-See in file.c .. it's updated
+## 👀 I’m interested in
+- Android development
+- Web development
+- Machine learning
 
+## 🌱 I’m currently learning
+- Flutter
+- Planning to learn Jetpack Compose
+- Planning to learn React Native
 
+## 💞️ I’m looking to collaborate on
+- Android projects
+- Machine learning projects
 
+## 📫 How to reach me
+- Email: rahulyadav85565@gmail.com
+- LinkedIn: [Rahul Yadav](https://www.linkedin.com/in/rahulyadav12/)
